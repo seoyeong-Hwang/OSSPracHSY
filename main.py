@@ -1,1 +1,2 @@
-print("Hello HSY!")
+print("Hello Seoyeong Hwang!")
+print("A")
