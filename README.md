@@ -4,5 +4,6 @@
 [OSS실습 전자책 바로가기](https://wikidocs.net/book/13835)
 
 My Claa: OSSPrac
-My Name: Seoyoung Hwang
+My Name: Seoyoung Hwang    
 Date: 27 MAR, 2024
+Weather: Clean
