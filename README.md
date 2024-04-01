@@ -8,6 +8,3 @@ My Name: Seoyoung Hwang
 Date: 27 MAR, 2024
 class: OSSPrac
 
-A
-B
-C
